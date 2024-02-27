@@ -3,6 +3,10 @@
 
 format: jb-book
 root: intro
-options:  # The options key will be applied to all chapters, but not sub-sections
 chapters:
-- file: docs/01-intro/intro
+- file: docs/about/about
+- file: docs/projects/projects
+- file: docs/cv/cv
+- file: docs/contact/contact
+ # sections:
+ # - file: docs/01-intro/01-history/history
